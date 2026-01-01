@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "table_number": 4,
+      "order": "Pasta"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "table_number": 3,
+      "order": "Burger"
+    }
+  ]
+}
